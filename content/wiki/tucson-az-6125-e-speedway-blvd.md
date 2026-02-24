@@ -10,7 +10,7 @@ stages = [
 ]
 franchisees = []
 animatronics = [
-  "Chuck E. Cheese 16m (Animatronic)|2014-10-00|2023-00-00||Unknown/Destroyed. Came from the {{< wiki-link \"Kelso, WA (351 Three Rivers Dr)\" >}} location"
+  "Chuck E. Cheese 16m (Animatronic)|2014-10-00|2023-00-00||Unknown/Destroyed. Came from the {{< wiki-link \"Kelso, WA (351 Three Rivers Dr)\" >}} location. Had Cool Chuck outfit until 2022"
 ]
 attractions = []
 draft = false
@@ -25,10 +25,8 @@ cuDate = ""
 sqft = ""
 latitudeLongitude = ["32.23518977","-110.8627695"]
 citations = []
-contributors = []
 downloadLinks = []
 pageThumbnailFile = "s\_mlQlEZbqLijJe9FKT4.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-draft = false
 +++
